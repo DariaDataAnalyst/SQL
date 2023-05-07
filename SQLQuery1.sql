@@ -1,16 +1,4 @@
 
---SELECT level
---FROM PortfolioProject.dbo.Trips_by_Distance
---GROUP BY level
-
-
---SELECT date
---FROM PortfolioProject.dbo.Trips_by_Distance
---GROUP BY date
-
---SELECT *
---FROM PortfolioProject..Trips_by_Distance
---WHERE level = 'state'
 
 --Select Data that we are going to be using
 
